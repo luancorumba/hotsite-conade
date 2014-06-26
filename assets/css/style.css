@@ -48,14 +48,14 @@ PARALLAX EFFECTS...........................1474
 	
 	/**********************  THEME COLORS ***********************/
 		.main-color{
-			color:#f89406;
+			color:#4c843f;
 		}
 		.main-br-color{
-			background-color:#f89406;
+			background-color:#4c843f;
 		}
 		
 		.main-color-line{
-			border-bottom:2px solid #f89406;
+			border-bottom:2px solid #4c843f;
 			display:inline-block;
 			padding-bottom:1px;
 		}
@@ -71,7 +71,7 @@ PARALLAX EFFECTS...........................1474
 	/********************** CUSTOM BACKGROUND STYLES *************************/
 	
 	.lines-bg-color {
-		background: #f89406 url(../img/line_bg.png) top left repeat;
+		background: #4c843f url(../img/line_bg.png) top left repeat;
 	}
 	.dott-bg{
 		background-image:url(../img/section-top-bg.png)repeat;
@@ -93,7 +93,7 @@ PARALLAX EFFECTS...........................1474
 
 		
 		#header-section {
-			background: #222 url(../img/conade6.jpg) bottom center repeat fixed;
+			background: #222 url(../img/conade6azul.png) bottom center repeat fixed;
 			background-size: cover;
 			height: 650px;
 			height: 650px;
@@ -253,13 +253,13 @@ PARALLAX EFFECTS...........................1474
 		}
 			
 			#slogan-section-3 .goprice a{
-				color:#f89406;
+				color:#4c843f;
 				font-size:140%;
 			
 			}
 			
 			#slogan-section-1 .goprice a{
-				color:#f89406;
+				color:#4c843f;
 				font-size:140%;
 			
 			}
@@ -318,7 +318,7 @@ PARALLAX EFFECTS...........................1474
 				.navbar .nav > .active > a  {
 					color: #fff;
 					text-decoration: none;
-					background-color: #f89406;
+					background-color: #4c843f;
 					-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -329,7 +329,7 @@ PARALLAX EFFECTS...........................1474
 				 .navbar .nav > li > a:hover,  .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
 					color: #fff;
 					text-decoration: none;
-					background-color: #f89406;
+					background-color: #4c843f;
 					-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
 					box-shadow: 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -340,7 +340,7 @@ PARALLAX EFFECTS...........................1474
 					.navbar .brand {
 						
 						font-weight: 400;
-						background: url(../img/logo-bg.png) top left no-repeat;
+						background: url(../img/logo-bg-green.png) top left no-repeat;
 						padding:5px 15px 12px 150px;
 						margin-left:-120px;
 						margin-right:30px;
@@ -580,7 +580,7 @@ PARALLAX EFFECTS...........................1474
 	
 		
 		 #slogan-section-1 .well{
-			background: #f89406  url(../img/png.png) top left repeat;
+			background: #4c843f  url(../img/png.png) top left repeat;
 			border:none;
 			text-transform:uppercase;
 			color:#333;
@@ -626,7 +626,7 @@ PARALLAX EFFECTS...........................1474
 	
 		
 		 #slogan-section-2 .well{
-			background: #f89406  url(../img/png.png) top left repeat;
+			background: #4c843f  url(../img/png.png) top left repeat;
 			border:none;
 			text-transform:uppercase;
 			color:#333;
@@ -860,6 +860,11 @@ PARALLAX EFFECTS...........................1474
 			
 			height:auto;
 		}
+		
+		.main_logo img{
+			width:45%;
+			height:auto;
+		}
 	
 	.large-slogan {
 		display:inline-block;
@@ -923,7 +928,7 @@ PARALLAX EFFECTS...........................1474
 	}
 	.featured-badge.white {
 		background:url(../img/featured-badge-white.png) top center no-repeat;
-		color:#f89406;
+		color:#4c843f;
 		background-size:100% 100%;
 		
 	}
@@ -1089,7 +1094,7 @@ PARALLAX EFFECTS...........................1474
 				font-size: 140%;
 			}
 			blockquote p:before{
-				color: #f89406;
+				color: #4c843f;
 				content: open-quote;
 				font-size: 3em;
 				line-height: .1em;
@@ -1099,7 +1104,7 @@ PARALLAX EFFECTS...........................1474
 			}
 			
 			blockquote p:after {
-				color: #f89406;
+				color: #4c843f;
 				content: close-quote;
 				font-size: 3em;
 				line-height: .1em;
@@ -1151,11 +1156,11 @@ PARALLAX EFFECTS...........................1474
 			text-align:left;
 		}
 		.tweetList a{
-			color:#f89406;
+			color:#4c843f;
 			font-weight:normal;
 		}
 		.tweetList .timestamp{
-			border-left:2px solid #f89406;
+			border-left:2px solid #4c843f;
 			font-weight:bold;
 			display:block;
 			padding-left:6px;
@@ -1401,7 +1406,7 @@ PARALLAX EFFECTS...........................1474
 		}
 
 		.btn-action {
-		  background-color: hsl(21, 100%, 46%) !important;
+		  background-color: #002e68 !important;
 		  background-repeat: repeat-x;
 		  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ea5200", endColorstr="#ea5200");
 		  background-image: -khtml-gradient(linear, left top, left bottom, from(#ea5200), to(#ea5200));
@@ -1410,8 +1415,8 @@ PARALLAX EFFECTS...........................1474
 		  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ea5200), color-stop(100%, #ea5200));
 		  background-image: -webkit-linear-gradient(top, #ea5200, #ea5200);
 		  background-image: -o-linear-gradient(top, #ea5200, #ea5200);
-		  background-image: linear-gradient(#ea5200, #ea5200);
-		  border-color: #ea5200 #ea5200 hsl(21, 100%, 46%);
+					 background-image: linear-gradient(#002e68, #002e68);
+		  border-color: #002e68 #002e68 #002e68;
 		  color: #fff !important;
 		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
 		  -webkit-font-smoothing: antialiased;
@@ -1694,6 +1699,11 @@ PARALLAX EFFECTS...........................1474
 					width:35%;
 					height:auto;
 				}
+
+				.main_logo img{
+					width:40%;
+					height:auto;
+				}
 				
 				#slogan-section-2 {
 					
@@ -1747,6 +1757,10 @@ PARALLAX EFFECTS...........................1474
 					width:45%;
 					height:auto;
 				}
+				.main_logo img{
+					width:40%;
+					height:auto;
+				}
 				.browser-shot-2 {
 				left: 3%;
 				}
@@ -1788,7 +1802,7 @@ PARALLAX EFFECTS...........................1474
 }
 
 #filters li a:hover,#filters li a.active, #order li a:hover, #order li a.active {
-    color:#FFA300;
+    color:#4c843f;
 }
 
 .member {
