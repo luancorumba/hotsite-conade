@@ -205,16 +205,18 @@ jQuery('#header-section').bind('inview', function (event, visible) {
 	var $container = $('#members'),
 	$filters = $("#filters a");
 	$sort = $('#order a');
-	$container.isotope({
-		itemSelector: '.member',
-		masonry: {
-			columnWidth: 0
-		},
-		getSortData: {
-			name: '.name',
-			job: '.job',
-		},
-		sortBy: 'name',
+	$container.imagesLoaded( function(){
+		$container.isotope({
+			itemSelector: '.member',
+			masonry: {
+				columnWidth: 0
+			},
+			getSortData: {
+				name: '.name',
+				job: '.job',
+			},
+			sortBy: 'name',
+		});
 	});
 
 	// filter items when filter link is clicked
