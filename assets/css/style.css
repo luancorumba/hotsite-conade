@@ -48,7 +48,7 @@ PARALLAX EFFECTS...........................1474
 	
 	/**********************  THEME COLORS ***********************/
 		.main-color{
-			color:#4c843f;
+			color:#002e68;
 		}
 		.main-br-color{
 			background-color:#4c843f;
@@ -71,7 +71,7 @@ PARALLAX EFFECTS...........................1474
 	/********************** CUSTOM BACKGROUND STYLES *************************/
 	
 	.lines-bg-color {
-		background: #4c843f url(../img/line_bg.png) top left repeat;
+		background: #002e68 url(../img/line_bg.png) top left repeat;
 	}
 	.dott-bg{
 		background-image:url(../img/section-top-bg.png)repeat;
